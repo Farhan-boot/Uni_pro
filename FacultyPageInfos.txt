@@ -1,0 +1,16 @@
+Faculty 
+1.Title (Name)
+2.Designation/Rank
+	Apppoinment
+  Faculty/Department
+3. Description
+
+4. Research Interest
+5. E-mail
+6. Mobile
+7. Fax
+
+
+Name
+Designation
+Message
